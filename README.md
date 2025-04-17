@@ -4,6 +4,17 @@
 
 This is a **News App** built using **Kotlin** and **Jetpack Compose** for the UI, adhering to **Clean Architecture** principles. The app fetches news data from an API using **Retrofit** and allows users to bookmark their favorite news articles. Bookmarked articles are stored in a **Room Database** for efficient future access. Dependency injection is handled with **Dagger**.
 
+## 📸 Screenshots
+
+### 🔹 Home Screen with Search & News List
+<img src="WhatsApp Image 2025-04-17 at 10.22.06 PM.jpeg" width="300"/>
+
+### 🔹 Bookmarks Section
+<img src="WhatsApp Image 2025-04-17 at 10.22.05 PM.jpeg" width="300"/>
+
+### 🔹 Article Details Screen
+<img src="WhatsApp Image 2025-04-17 at 10.22.06 PM (1).jpeg" width="300"/>
+
 ## Features
 
 - Fetches the latest news using Retrofit.
